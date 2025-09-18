@@ -15,11 +15,7 @@ This assignment demonstrates **three machine learning tasks** using the **Iris d
 2. **k-Nearest Neighbors (kNN) Classification & Decision Boundaries (Q8)**  
 3. **kNN Performance Evaluation (Metrics & ROC/AUC) (Q9)**  
 
-The purpose is to train models, visualize decision boundaries, and evaluate classification performance using standard metrics.
-
----
-
-## Dataset
+The goal is to train models, visualize decision boundaries, and evaluate classification performance using standard metrics.  
 
 - **Dataset:** Iris dataset (built-in scikit-learn)  
 - **Number of samples:** 150  
